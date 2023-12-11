@@ -1,6 +1,6 @@
 # Turtle-Kali Installation and Usage Guide
 
-Last year at Purdue, many of you saw my customized version of Kali. I've had to redo this installation and configuration process a bunch of times so I decided to automate it. I hope this guide is useful for anyone who is curious or wants to try my custom Kali setup! 
+I've had to redo the installation and configuration process of my Kali setup a bunch of times so I decided to automate it. I hope this guide is useful for anyone who is curious or wants to try it! 
 
 <img width="1840" alt="Screenshot 2023-12-10 at 3 22 49 PM" src="https://github.com/sashathomas/Turtle-Kali/assets/59403796/fa44a96a-0e89-420d-984a-401499d7d014">
 
