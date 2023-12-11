@@ -2,7 +2,7 @@
 
 Last year at Purdue, many of you saw my customized version of Kali. I've had to redo this installation and configuration process a bunch of times so I decided to automate it. I hope this guide is useful for anyone who is curious or wants to try my custom Kali setup! 
 
-<img width="1840" alt="Screenshot 2023-12-10 at 3 22 49 PM" src="https://gist.github.com/assets/59403796/ce28c4ea-f44a-4f61-9322-34f81683934f">
+<img width="1840" alt="Screenshot 2023-12-10 at 3 22 49 PM" src="https://github.com/sashathomas/Turtle-Kali/assets/59403796/fa44a96a-0e89-420d-984a-401499d7d014">
 
 ## Overview
 
@@ -46,3 +46,4 @@ The default MOD key is `ctrl`. The basics are:
 3. `MOD+d`: Open application 
 
 Here's a reference with all the shortcuts: https://i3wm.org/docs/refcard.html
+
